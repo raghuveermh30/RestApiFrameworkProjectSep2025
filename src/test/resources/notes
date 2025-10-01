@@ -1,0 +1,18 @@
+mvn clean install
+
+mvn clean test
+
+SRP --> Utils with Partial Singleton Pattern
+Rest others are using Factory Pattern
+
+Log4j api is not needed in API framework
+Logs are added in built in Rest Assured
+
+Rest Assured with Allure Report has powerful integration
+
+Session 2 -  PropertiesFile_ConfigManager_BaseTest_RestClient_GET_POST_APIs_Test
+
+Design the code by step by step --> Utilities, RestClient
+
+Session 3 - RA_FW_03_PUT_PATCH_DELETE_Workflow_AuthAPI_ContactsAPITest_NoAuthAPITest
+
